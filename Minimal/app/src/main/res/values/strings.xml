@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MInimal</string>
+    <string name="facebook_app_id">187652859896428</string>
+    <string name="fb_login_protocol_scheme">fb187652859896428</string>
+    <string name="contact_me">You can contact me at</string>
+    <string name="email_address">Uonghangkin@gmail.com</string>
+    <string name="made_by">Make by Hang</string>
+    <string-array name="category">
+        <item>Lich hoc</item>
+        <item>Lich di lam</item>
+        <item>Lich thi</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/thongbao"
+        android:icon="@drawable/lenlich"
+        android:title="Lên lịch"/>
+    <item
+        android:id="@+id/thongtin"
+        android:icon="@drawable/user_icon"
+        android:title="Người dùng" />
+    <item android:id="@+id/caidat"
+        android:icon="@drawable/caidat"
+        android:title="Liên hệ"/>
+
+</menu>
